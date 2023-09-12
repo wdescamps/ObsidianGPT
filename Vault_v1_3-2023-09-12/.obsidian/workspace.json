@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "b0b3945977c8be8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc6454dd24fc8c0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f9429b837d06700",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AudioData/MusicRecommendation/LongShort-TermMemory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2ffc4a2afdcb15c",
+    "type": "split",
+    "children": [
+      {
+        "id": "df998a1619118bb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86b902446cbcbf0e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "27109aca12645947",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5b9a406bc1834441",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 212.5
+  },
+  "right": {
+    "id": "52f1767b91dee4a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "07e68a196d3015a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "370223ec10b83373",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AudioData/MusicRecommendation/LongShort-TermMemory.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c7309e2e372add1c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AudioData/MusicRecommendation/LongShort-TermMemory.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "414387cf37299c11",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d5ea5cfdf8488a04",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AudioData/MusicRecommendation/LongShort-TermMemory.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8f9429b837d06700",
+  "lastOpenFiles": [
+    "MusicGeneration.md",
+    "AudioData/SpeakerIdentification/Verification/SupportVectorMachines.md",
+    "AudioData/SpeechRecognition/Tacotron.md",
+    "AnomalyDetection.md",
+    "StructuredData/Regression/ArtificialNeuralNetworks.md",
+    "GraphData/GraphEmbeddings/GE-SNMF.md",
+    "GraphData/GraphEmbeddings/StructuralDeepNetworkEmbeddings.md",
+    "GraphData/GraphEmbeddings/GraphConvolutionalNetwork.md",
+    "GraphData/GraphEmbeddings/Node2Vec.md",
+    "GraphData/GraphEmbeddings/DeepWalk.md",
+    "GraphData/GraphEmbeddings",
+    "GraphData/GraphClustering/LabelPropagationAlgorithm.md",
+    "GraphData/GraphClustering/Infomap.md",
+    "GraphData/GraphClustering/LouvainAlgorithm.md",
+    "GraphData/GraphClustering/GraphModularityMaximization.md",
+    "GraphData/GraphClustering/SpectralClustering.md",
+    "GraphData/GraphClustering",
+    "GraphData/GraphNetworks/DynamicGraphRepresentationLearning.md",
+    "GraphData/GraphNetworks/GraphNeuralNetworks.md",
+    "GraphData/GraphNetworks/GINConv.md",
+    "GraphData/GraphNetworks/ChebNet.md",
+    "GraphData/GraphNetworks/GraphIsomorphismNetworks.md",
+    "GraphData/GraphNetworks/GraphAttentionNetworks.md",
+    "GraphData/GraphNetworks/GraphSAGE.md",
+    "GraphData/GraphNetworks/GraphConvolutionalNetworks.md",
+    "GraphData/GraphNetworks",
+    "GraphData",
+    "AudioData/MusicRecommendation/GatedRecurrentUnits.md",
+    "AudioData/MusicRecommendation/LongShort-TermMemory.md",
+    "AudioData/MusicRecommendation/RecurrentNeuralNetworks.md",
+    "AudioData/MusicRecommendation",
+    "AudioData/MusicGeneration",
+    "AudioData/AudioClassification",
+    "AudioData/SpeakerIdentification/Verification",
+    "AudioData/SpeakerIdentification",
+    "AudioData/SpeechRecognition"
+  ]
+}
