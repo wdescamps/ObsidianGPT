@@ -5,11 +5,11 @@ Explores the interaction between the OpenAi GPT models and Obsidian Software not
 
 Goals : 
 
---> Create a Network Graph of available ML and DeepL models for each data types
+--> Create a Network Graph of available ML and DeepL models for each data types (Structured, Unstructured (Audio, Graph, Image, Timeseries...)
 
---> Add information for each model
+--> Add information for each model (Pros & Cons, Relevant Resources, Top 5 experts and Github links... )
 
---> Visualize the results
+--> Visualize the results as an interactive Graph
 
 
 
